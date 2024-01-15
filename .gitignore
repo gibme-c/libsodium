@@ -166,3 +166,5 @@ testing
 .zig-cache
 zig-cache
 zig-out
+.idea/
+cmake-build-*/
